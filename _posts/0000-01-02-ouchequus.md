@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Is she doing it right?](https://i.imgur.com/i3pyugJ.jpg)
 Use the left arrow to go back *NOW!*
